@@ -14,7 +14,10 @@
   padding-bottom: 20px;
   }
 
+.navbar-toggler {
 
+  background-color: #310050 !important;
+}
   .navbar-brand {
 
     color: white !important;
