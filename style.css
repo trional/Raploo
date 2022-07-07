@@ -1,0 +1,63 @@
+/* Modify the background color */
+@import url('https://fonts.googleapis.com/css2?family=Finlandica:ital,wght@1,500&family=Merriweather&family=Mukta&display=swap');
+  
+
+  h1 {
+  font-family: 'Finlandica', serif;
+  color:white;
+  background-color: whitesmoke;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  }
+
+
+  .navbar-brand {
+
+    color: white !important;
+    font-family: 'Finlandica', serif;
+    font-size: 32px !important;
+  }
+
+
+  .bg-purple {
+    background: #310050;
+}
+
+  .nav-link {
+    color: white !important;
+    font-size: large !important;
+    font-family: 'Finlandica', serif;
+
+  }
+
+  .nav-link active {
+   font-size: large !important;
+  }
+
+
+  .nav-item {
+   
+
+  }
+
+
+  img {
+    height: 30vh;
+    overflow:hidden;
+    object-fit: fill;   
+  }
+
+  .album {
+    background-color: white;
+    background-image: url('raploobackground.png');
+
+  }
+
+
+  .container {
+
+    background-color: whitesmoke;
+    padding-bottom: 20px !important;
+    padding-top: 10px !important;
+
+  }
